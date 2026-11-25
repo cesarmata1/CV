@@ -1,12 +1,12 @@
-# CV – César Mata
+# 📄 CV — César Mata Rodríguez
 
-Este repositorio contiene mi **Currículum Vitae (CV)** en formato descargable y público. Aquí encontrarás la versión más actualizada de mi trayectoria académica y técnica, así como mis habilidades y proyectos más relevantes.
+👉 **[Ver / descargar el CV en PDF](./César_MataRodriguez.pdf)**
 
-## Contenido
+**Resumen**
+- 🎓 Máster Universitario en **Ciencia de Datos e Inteligencia Artificial** — CUNEF Universidad (2026 – actualidad)
+- 🎓 Doble Grado en **ADE Tecnológicas + Ingeniería Informática** — Universidad Pontificia de Salamanca (2021 – 2026)
+- 🌍 Erasmus en la Université Catholique de Lille (2025 – 2026)
+- 💼 Próximas prácticas en **PwC** (GRC) · Prácticas de verano en **Banco Sabadell**
+- 🗣️ Inglés B2 · Francés B1
 
-- **CV.pdf** – Versión en PDF de mi currículum vitae.
-- **Otros formatos** *(opcional)* – Si hay versiones en Word u otros formatos, también se incluyen aquí.
-
-## Descripción
-
-Este repositorio está pensado para facilitar el acceso a mi CV, de forma que reclutadores, compañeros o cualquier persona interesada pueda revisarlo y descargarlo fácilmente.
+[LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-mata-rodr%C3%ADguez) · Más proyectos en [github.com/cesarmata1](https://github.com/cesarmata1)
