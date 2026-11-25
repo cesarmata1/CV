@@ -9,4 +9,4 @@
 - 💼 Próximas prácticas en **PwC** (GRC) · Prácticas de verano en **Banco Sabadell**
 - 🗣️ Inglés B2 · Francés B1
 
-[LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-mata-rodr%C3%ADguez) · Más proyectos en [github.com/cesarmata1](https://github.com/cesarmata1)
+[LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-mata-rodr%C3%ADguez-9803a0242) · Más proyectos en [github.com/cesarmata1](https://github.com/cesarmata1)
